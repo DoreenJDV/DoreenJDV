@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DoreenJDV
+- 👀 I’m interested in a lot of stuff
+- 🌱 I’m currently learning Web development and app development
+- 💞️ I’m looking to collaborate on those mentioned above
